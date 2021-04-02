@@ -1,0 +1,2 @@
+# FreeCRM
+Test automation project
